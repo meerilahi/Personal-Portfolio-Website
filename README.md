@@ -12,17 +12,6 @@ This is the source code for my **personal portfolio website**, where I showcase 
 
 ---
 
-## 📂 Folder Structure  
-📂 portfolio-website
-├── 📂 assets # Images, icons, and other assets
-├── 📂 css # Stylesheets
-├── 📂 js # JavaScript files
-├── index.html # Main page
-├── README.md # Project documentation
-
-
----
-
 ## 🌍 Live Demo  
 🔗 [Visit My Portfolio](https://taimoorulislam.com)  
 
